@@ -1,0 +1,18 @@
+name: 'AI-USE check'
+description: 'Fail CI when AI-USE.md is missing, malformed, or stale'
+branding:
+  icon: 'check-circle'
+  color: 'green'
+inputs:
+  path:
+    description: 'Directory containing AI-USE.md'
+    default: '.'
+  max-age-days:
+    description: 'Fail if the declaration is older than this many days (0 disables)'
+    default: '365'
+runs:
+  using: 'composite'
+  steps:
+    - name: Check AI-USE.md
+      shell: bash
+      run: python3 "${{ github.action_path }}/check_ai_use.py" "${{ inputs.path }}" --max-age-days "${{ inputs.max-age-days }}"
