@@ -1,10 +1,10 @@
 ---
 ai_use_version: "0.1"
-assisted: [subject-scanning, structural-feedback, persona-review, proofreading, dictation-transcription]
-human: [thoughts, beliefs, arguments, voice, drafting, final-edit]
+assisted: [subject-scanning, drafting, structural-feedback, persona-review, proofreading, dictation-transcription]
+human: [thoughts, beliefs, arguments, final-edit]
 review: full
 accountable: Jeremy Gracey
-updated: 2026-08-20
+updated: 2026-10-01
 ---
 
 # The written word
@@ -21,15 +21,17 @@ Then collaborate, iterate, and refine. AI is an extension of intellect, not
 a substitute for it — it aids me in thinking more clearly and more deeply,
 and in staying organized.
 
-This declaration is deliberately stricter than my general statement. For code
-and project docs, AI drafts from my notes under full review. For the written
-word, it does not draft at all.
+This declaration adds one rule to my general statement: the ideas have to be
+mine. AI can draft in my voice from my notes, my work, and my past writing.
+Sometimes it captures my voice perfectly; other times it's a little off.
+Either way, I review every draft before it goes out, make my own edits, and
+I'm the final judge.
 
 ## What AI never does here
 
-- Write in my voice, or write for me
-- Generate content or final drafts
-- Produce thoughts or arguments presented as my own ideas
+- Get the final say. I read every draft, make my own edits, and decide what
+  goes out.
+- Present a thought or argument as mine that I don't hold.
 
 ## What it does, phase by phase
 
@@ -38,11 +40,12 @@ and I run agent checks across social platforms and news feeds to see what is
 surfacing and what is already exhausted. The machine does the scanning. I
 decide what matters this week from what comes back.
 
-**Drafting.** I speak the draft out loud with Wispr Flow, making edits as I
-go, then comb it together with the notes I took during the week's research.
-The first draft is dictated thought, not generated text.
+**Drafting.** Two paths. I speak the draft out loud with Wispr Flow and comb
+it together with the week's research notes, or Claude drafts in my voice from
+my notes and past writing. Either way, it's a first draft, not the final word.
 
 **Editing.** I hand the draft to Claude and ask it to peer-review: argue with
 the structure, suggest edits. I also run a persona check — five imagined
 readers, from a near non-user to a hostile expert — to find where the piece
-loses people. I take some of it and ignore plenty.
+loses people. I take some of it and ignore plenty. Then I make my own edits.
+Nothing goes out until it sounds like me and says what I mean.

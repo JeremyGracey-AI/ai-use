@@ -52,14 +52,13 @@ Wording for each tier: [TIERS.md](./TIERS.md).
 
 ## Content-specific declarations
 
-The general statement covers projects. Some content types carry a stricter,
-more specific declaration:
+The general statement covers projects. Some content types carry a more
+specific declaration:
 
 - **[WRITING.md](./WRITING.md)** — the written word. Thoughts, feelings, and
-  beliefs are mine; AI never drafts, never writes in my voice, never produces
-  an argument presented as my own idea. It scans subjects, argues with
-  structure, and proofreads. First drafts are spoken (Wispr Flow), not
-  generated.
+  beliefs are mine. AI can draft in my voice from my notes and past writing;
+  I review every draft, make my own edits, and decide what goes out. It also
+  scans subjects, argues with structure, and proofreads.
 
 ## Adopters
 
