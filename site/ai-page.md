@@ -31,14 +31,14 @@ Every project I publish carries an [AI-USE.md](https://github.com/JeremyGracey-A
 > a substitute for it — it aids me in thinking more clearly and more deeply,
 > and in staying organized.
 
-The bar here is stricter than the workflow above: AI never writes in my
-voice, never generates drafts, never produces an argument presented as my
-own idea.
+One extra rule for writing: the ideas have to be mine. AI can draft in my
+voice from my notes and past writing. I review every draft, make my own
+edits, and I'm the final judge.
 
 What it actually does: agents scan social platforms and news feeds so I can
 see what's surfacing and what's exhausted — the machine scans, I decide what
-matters this week. I speak the first draft out loud with Wispr Flow and comb
-it together with my research notes. Then Claude peer-reviews — argues with
+matters this week. I speak the first draft out loud with Wispr Flow, or Claude drafts
+it in my voice from my notes, then I comb it together with my research notes. Then Claude peer-reviews — argues with
 the structure, suggests edits — and I run a persona check, five imagined
 readers from a near non-user to a hostile expert, to find where the piece
 loses people. I take some of it and ignore plenty.
@@ -47,4 +47,4 @@ Full declaration: [WRITING.md](https://github.com/JeremyGracey-AI/ai-use/blob/ma
 
 *Declared: what you're reading. Actual: [the repo](https://github.com/JeremyGracey-AI/ai-use). If they ever diverge, that's a bug — file an issue.*
 
-— Jeremy Gracey · last updated 2026-08-20
+— Jeremy Gracey · last updated 2026-10-01
